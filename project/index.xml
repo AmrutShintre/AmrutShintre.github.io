@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Amrut Shintre</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Amrut Shintre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Amrut Shintre</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PySpark - Regression</title>
+      <link>https://example.com/project/pyspark/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/pyspark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARCH Model</title>
+      <link>https://example.com/project/arch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GARCH Model</title>
+      <link>https://example.com/project/garch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/garch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modi Wave- A Well Crafted Strategy</title>
+      <link>https://example.com/project/logistic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/logistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Medicine: Redefining Cancer Treatment</title>
+      <link>https://example.com/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked Regression</title>
+      <link>https://example.com/project/stacked_regression/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/stacked_regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
